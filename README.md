@@ -5,29 +5,30 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-02-01 10:51:08 +0800 -->
+<!-- 最后更新时间 2025-02-01 11:18:47 +0800 -->
 1. [清华翟季冬：DeepSeek 百倍算力效能背后的系统革命 | 智者访谈](https://36kr.com/p/3144835983071750)
 1. [重磅！OpenAI推o3-mini新模型，被DeepSeek逼急？定价仍打不过](https://36kr.com/p/3147159755004679)
-1. [171项专利，撑起了一个33亿IPO](https://36kr.com/p/3144947090201344)
-1. [离开春晚12年，赵本山还好吗？](https://36kr.com/p/3144956882262789)
-1. [从神话仙侠剧到恐怖惊悚片，为何都偏爱让蛇当主角？](https://36kr.com/p/3144821538619144)
 1. [DeepSeek在美两重天：五大巨头接入，政府诚惶诚恐](https://36kr.com/p/3146488102656514)
+1. [从神话仙侠剧到恐怖惊悚片，为何都偏爱让蛇当主角？](https://36kr.com/p/3144821538619144)
 1. [2025，史上最强春节档？](https://36kr.com/p/3144470037617154)
 1. [2025年，不要给自己设定太清晰的目标](https://36kr.com/p/3118113467273472)
 1. [年轻人接管春节后，开始定制“好运”了](https://36kr.com/p/3146067940071941)
 1. [对 Deepseek 从赞叹到压制，硅谷为何一周内变脸](https://36kr.com/p/3146127487080969)
-1. [苹果：大模型“瘦身”，硬件成最后赢家？](https://36kr.com/p/3146025063996166)
 1. [身价暴涨50倍，00后过年，把“菜场配角”捧上客厅C位](https://36kr.com/p/3146699404515847)
+1. [苹果：大模型“瘦身”，硬件成最后赢家？](https://36kr.com/p/3146025063996166)
 1. [春节档背后资本博弈：21亿接盘“保护”《唐探》，30亿豪赌《封神》，谁是大赢家？](https://36kr.com/p/3146126532139782)
 1. [特斯拉：AI 叙事继续狂飙（4Q24 业绩会纪要）](https://36kr.com/p/3146025023150600)
-1. [抠门的年轻人，让深圳水贝开卖黄金平替](https://36kr.com/p/3146582711926281)
 1. [连锁酒店冲向小众城市：潮汕春节爆单，泉州半年开业超20家](https://36kr.com/p/3146223050840832)
+1. [抠门的年轻人，让深圳水贝开卖黄金平替](https://36kr.com/p/3146582711926281)
+1. [“特朗普2.0”，重构全球资产价格](https://36kr.com/p/3146010328521219)
 1. [沉迷“寻宝”的东南亚人，把这款出海App干上总榜Top1](https://36kr.com/p/3146716012796673)
 1. [金庸的时代，还在吗？](https://36kr.com/p/3146553225796103)
-1. [“特朗普2.0”，重构全球资产价格](https://36kr.com/p/3146010328521219)
-1. [春节县城医美火了，有机构4.3折起抢客](https://36kr.com/p/3146223076989442)
-1. [光伏投资人众生相：从遍地黄金到如履薄冰，“天天说价格打不过别人”](https://36kr.com/p/3146108357876487)
 1. [不回家的一线打工人，在非遗小城寻找年味儿](https://36kr.com/p/3145151908305666)
+1. [光伏投资人众生相：从遍地黄金到如履薄冰，“天天说价格打不过别人”](https://36kr.com/p/3146108357876487)
+1. [春节县城医美火了，有机构4.3折起抢客](https://36kr.com/p/3146223076989442)
+1. [6家车企斗艳，谁的营销最高明？](https://36kr.com/p/3145974920157954)
+1. [171项专利，撑起了一个33亿IPO](https://36kr.com/p/3144947090201344)
+1. [离开春晚12年，赵本山还好吗？](https://36kr.com/p/3144956882262789)
 1. [电池跟弹夹一样换，这机子太野了](https://36kr.com/p/3146029578984198)
 1. [《哪吒》逆袭，《射雕》降温：春节档背后的生死战](https://36kr.com/p/3144542038628866)
 1. [银行卡一碰手机钱没了？这种NFC新骗局要小心了！](https://36kr.com/p/3143671575723777)
@@ -47,7 +48,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-02-01 10:51:09 +0800 -->
+<!-- 最后更新时间 2025-02-01 11:18:47 +0800 -->
 1. [2025我的世界拜年纪](https://b23.tv/BV1fdfQYYEDd)
 1. [谁偷了我妈的自行车？](https://b23.tv/BV1MTFnefEz7)
 1. [OneRepublic:数星星数进了春晚🇨🇳🐍⭐️](https://b23.tv/BV1TxFhe4Eyz)
@@ -167,13 +168,13 @@
 ## 抖音
 
 <!-- BEGIN DOUYIN -->
-<!-- 最后更新时间 2025-02-01 10:51:11 +0800 -->
+<!-- 最后更新时间 2025-02-01 11:18:49 +0800 -->
 1. [三家美国巨头同日接入DeepSeek](https://www.douyin.com/hot/1983973)
-1. [一转眼年就过完了](https://www.douyin.com/hot/1982870)
-1. [铁路春运发送旅客突破2亿人次](https://www.douyin.com/hot/1983573)
 1. [过年像是做了一场热闹的梦](https://www.douyin.com/hot/1983150)
-1. [初四迎灶神](https://www.douyin.com/hot/1984023)
+1. [铁路春运发送旅客突破2亿人次](https://www.douyin.com/hot/1983573)
+1. [一转眼年就过完了](https://www.douyin.com/hot/1982870)
 1. [适合过年反向旅游的小众城市](https://www.douyin.com/hot/1983869)
+1. [初四迎灶神](https://www.douyin.com/hot/1984023)
 1. [二月你好](https://www.douyin.com/hot/1984031)
 1. [年味生活影像](https://www.douyin.com/hot/1982958)
 1. [春节档票房破45亿](https://www.douyin.com/hot/1983944)
@@ -183,40 +184,43 @@
 1. [阿姨保护了所有来宾的肖像权](https://www.douyin.com/hot/1983068)
 1. [这些土方不可信](https://www.douyin.com/hot/1983290)
 1. [黑妮曝王菲父母哥哥均已离世](https://www.douyin.com/hot/1984058)
-1. [三亚西岛致歉](https://www.douyin.com/hot/1983984)
 1. [国内足金首饰1克突破846元](https://www.douyin.com/hot/1983618)
-1. [马丽 律师声明](https://www.douyin.com/hot/1984148)
-1. [任敏在家对镜尝试晋江式演技](https://www.douyin.com/hot/1983550)
 1. [被叶童走路硬控了](https://www.douyin.com/hot/1983549)
+1. [马丽 律师声明](https://www.douyin.com/hot/1984148)
+1. [李小冉回应退繁花群](https://www.douyin.com/hot/1984105)
+1. [三亚西岛致歉](https://www.douyin.com/hot/1983984)
+1. [任敏在家对镜尝试晋江式演技](https://www.douyin.com/hot/1983550)
 1. [春晚机器人的风吹到美食圈](https://www.douyin.com/hot/1982750)
 1. [留学生偷偷回国过年](https://www.douyin.com/hot/1982957)
+1. [三步轻松学会青花瓷踢腿](https://www.douyin.com/hot/1982582)
 1. [蛋仔蛇精惊魂夜皮肤](https://www.douyin.com/hot/1983916)
-1. [敖丙爸爸硬帅](https://www.douyin.com/hot/1983557)
 1. [爷爷赢孙女200元躲角落开心数钱](https://www.douyin.com/hot/1983977)
 1. [缅甸决定延长全国紧急状态6个月](https://www.douyin.com/hot/1984039)
+1. [敖丙爸爸硬帅](https://www.douyin.com/hot/1983557)
 1. [李宇春第一时间取消连续包月](https://www.douyin.com/hot/1983342)
-1. [敖光一款非传统反差父亲](https://www.douyin.com/hot/1983306)
-1. [许凯回应跟田曦薇公主抱出圈](https://www.douyin.com/hot/1983728)
 1. [于冬称给蛟龙行动打一星的是黑水](https://www.douyin.com/hot/1984074)
 1. [小品金龟婿告诉我们的](https://www.douyin.com/hot/1984024)
-1. [周鸿祎谈什么是模型蒸馏](https://www.douyin.com/hot/1983975)
 1. [在吃鸡开上人生第一辆宝马](https://www.douyin.com/hot/1984009)
 1. [英伟达平台上线DeepSeek](https://www.douyin.com/hot/1983716)
-1. [三步轻松学会青花瓷踢腿](https://www.douyin.com/hot/1982582)
-1. [亚连糖绘人间皮肤爆料](https://www.douyin.com/hot/1983800)
-1. [女孩被浪卷走众人合力营救](https://www.douyin.com/hot/1983624)
-1. [欧阳娜娜抱外甥](https://www.douyin.com/hot/1983612)
-1. [五福临门杜仰熙名场面来了](https://www.douyin.com/hot/1984059)
-1. [刘宇宁自曝出道前想当配音演员](https://www.douyin.com/hot/1983611)
+1. [周鸿祎谈什么是模型蒸馏](https://www.douyin.com/hot/1983975)
+1. [唐探白振邦爱丽丝BE美学](https://www.douyin.com/hot/1983652)
+1. [许凯回应跟田曦薇公主抱出圈](https://www.douyin.com/hot/1983728)
 1. [哪吒2特效镜头超哪吒1全片镜头数](https://www.douyin.com/hot/1983381)
 1. [哪吒2为何成票房口碑双冠王](https://www.douyin.com/hot/1983372)
+1. [欧阳娜娜抱外甥](https://www.douyin.com/hot/1983612)
+1. [亚连糖绘人间皮肤爆料](https://www.douyin.com/hot/1983800)
 1. [下车就要红包挑战](https://www.douyin.com/hot/1983860)
+1. [女孩被浪卷走众人合力营救](https://www.douyin.com/hot/1983624)
 1. [长大后和申公豹深深共情了](https://www.douyin.com/hot/1983360)
-1. [带全家人看封神第二部](https://www.douyin.com/hot/1983702)
 1. [哪吒rap我先用了](https://www.douyin.com/hot/1982803)
+1. [三头殷郊模仿大赛](https://www.douyin.com/hot/1984156)
+1. [敖光一款非传统反差父亲](https://www.douyin.com/hot/1983306)
 1. [老妈的妆前妆后](https://www.douyin.com/hot/1983096)
 1. [申公豹帅强惨具象化](https://www.douyin.com/hot/1983053)
+1. [带全家人看封神第二部](https://www.douyin.com/hot/1983702)
 1. [当我家狗过年去给亲戚拜年](https://www.douyin.com/hot/1984089)
+1. [五福临门杜仰熙名场面来了](https://www.douyin.com/hot/1984059)
+1. [刘宇宁自曝出道前想当配音演员](https://www.douyin.com/hot/1983611)
 1. [印度部长称赞DeepSeek](https://www.douyin.com/hot/1983177)
 1. [殷郊法相被指抽象](https://www.douyin.com/hot/1983198)
 1. [给唐探岳云鹏胳肢窝报工伤](https://www.douyin.com/hot/1983420)
@@ -243,7 +247,6 @@
 1. [DeepSeek如何击穿美AI](https://www.douyin.com/hot/1983749)
 1. [蛋仔派对百变羽翼](https://www.douyin.com/hot/1983914)
 1. [殷郊视角看封神第二部](https://www.douyin.com/hot/1983288)
-1. [唐探白振邦爱丽丝BE美学](https://www.douyin.com/hot/1983652)
 1. [哪吒里的中国文化](https://www.douyin.com/hot/1983438)
 1. [五福临门三女婿结盟](https://www.douyin.com/hot/1983920)
 1. [敖丙传](https://www.douyin.com/hot/1983176)
@@ -263,7 +266,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-02-01 10:51:13 +0800 -->
+<!-- 最后更新时间 2025-02-01 11:18:50 +0800 -->
 1. [字节跳动推出AI编程神器Trae，基于Trae 从 0 开发一个Google 插件！](https://juejin.cn/post/7462542925915848744)
 1. [AI 辅助编程 ：我的探索与反思](https://juejin.cn/post/7463799782139904052)
 1. [「Versakit UI」前端娱乐圈？又来一个组件库？我们做了组件库才明白这是有意义的！](https://juejin.cn/post/7464756728686723126)
@@ -281,18 +284,18 @@
 1. [2025年春晚刘谦表演的魔术实际上就是一个冒泡排序？](https://juejin.cn/post/7464972762223034418)
 1. [Vue Amazing UI：好用的Vue3组件，大大提升开发速度，这款强大的Vue3组件库，组件太丰富了，几乎涵盖了你需要的控件样式，不信你自己测试](https://juejin.cn/post/7465259435352916004)
 1. [Node.js 的底层原理  ](https://juejin.cn/post/7465494716047245346)
+1. [Deepseek核心成员学历一览表](https://juejin.cn/post/7465879826932957193)
 1. [Van-Nav：新年，将自己学习的项目地址统一整理搭建自己的私人导航站，供自己后续查阅使用，做技术的同学应该都有一个自己网站的梦想](https://juejin.cn/post/7464976986134872075)
 1. [掌握Java反射：在项目中高效应用反射机制](https://juejin.cn/post/7464756728685887542)
-1. [Deepseek核心成员学历一览表](https://juejin.cn/post/7465879826932957193)
 1. [关于"为什么XLang是一门创新的程序语言"一文的进一步解释](https://juejin.cn/post/7465383466784374835)
 1. [一文了解 ksp 的使用](https://juejin.cn/post/7465342500070752290)
 1. [学习正则表达式后🤔直接开始面试😱](https://juejin.cn/post/7464808720020340736)
 1. [Now In Android 精讲 6 - UI Layer](https://juejin.cn/post/7465559908865228841)
+1. [面试官顶级细节拷打：你说说Java的BigDecimal是如何做到高精度运算的？](https://juejin.cn/post/7464926870544711689)
 1. [一文学习python算法比赛常用语法 —— AI时代学习新范式🚀🚀🚀 ](https://juejin.cn/post/7465342500070178850)
 1. [重载和重写的区别](https://juejin.cn/post/7465336820289945663)
 1. [IT外传：老技术部的困境](https://juejin.cn/post/7465304408337530920)
 1. [从前端到全栈：Docker 部署 Node.js + MySQL 后端和 Vue.js 前端](https://juejin.cn/post/7465285589489090600)
-1. [面试官顶级细节拷打：你说说Java的BigDecimal是如何做到高精度运算的？](https://juejin.cn/post/7464926870544711689)
 1. [vue的家族史最详解析！！！](https://juejin.cn/post/7464831815514488844)
 1. [NestJs👈 | 前端spring🤔| 项目创建与项目结构解析](https://juejin.cn/post/7465698500807884852)
 1. [✨深入解析前端插件机制：以埋点SDK与Webpack为例](https://juejin.cn/post/7465664505466322971)
@@ -305,7 +308,6 @@
 1. [websocket webworker的教程及应用](https://juejin.cn/post/7464969581858848808)
 1. [检索增强生成技术RAG：向量化与大模型的结合](https://juejin.cn/post/7464756728685936694)
 1. [Janus Pro：DeepSeek 开源革新，多模态 AI 的未来](https://juejin.cn/post/7464736368474095655)
-1. [DeepSeek具体到普通人的意义](https://juejin.cn/post/7465957236625129506)
 1. [使用docker-compose构建管理MySQL和redis](https://juejin.cn/post/7465924528452321291)
 1. [手机也能跑大模型？DeepSeek-r1 部署教程来了！](https://juejin.cn/post/7465605445379489829)
 1. [从组件库到用户体验一致性保障体系](https://juejin.cn/post/7465366521938952201)
@@ -313,6 +315,7 @@
 1. [大年初二，确定不利用时间自我提升？](https://juejin.cn/post/7464965018519814171)
 1. [Go 语言的“继承”秘密：组合优于继承的真相](https://juejin.cn/post/7464956894093049866)
 1. [DeepSeek遭大规模网络攻击，攻击IP均来自美国！](https://juejin.cn/post/7464791009383383090)
+1. [DeepSeek具体到普通人的意义](https://juejin.cn/post/7465957236625129506)
 1. [深入理解CSS总结2~字节X豆包MarsCode青训营](https://juejin.cn/post/7465942670898053160)
 1. [DeepSeek 证明了什么](https://juejin.cn/post/7464756728685477942)
 1. [Java中的finally一定会被执行吗](https://juejin.cn/post/7464604237453312009)
@@ -338,7 +341,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-02-01 09:11:37 +0800 -->
+<!-- 最后更新时间 2025-02-01 11:18:46 +0800 -->
 1. [派评 | 近期值得关注的 App](https://sspai.com/post/95905)
 1. [2024 年终盘点：产品、品牌、好内容一锅烩](https://sspai.com/post/95804)
 1. [辞旧岁迎新春，好吃、好看、好用的年货你都买了啥？](https://sspai.com/post/95666)
@@ -386,7 +389,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-02-01 10:51:14 +0800 -->
+<!-- 最后更新时间 2025-02-01 11:18:51 +0800 -->
 1. [赶时间的人](https://weread.qq.com/web/bookDetail/b1f32a60813ab7d62g018665)
 1. [封神演义](https://weread.qq.com/web/bookDetail/b453256055b0e7b4550bbdd)
 1. [征服市场的人：“量化投资之父”詹姆斯·西蒙斯唯一传记](https://weread.qq.com/web/bookDetail/57d322107228916857ddb4f)
