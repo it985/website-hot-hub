@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-04-05 02:21:41 +0800 -->
+<!-- 最后更新时间 2025-04-05 03:14:19 +0800 -->
 1. [小米车祸后，智驾回归理性](https://36kr.com/p/3234415634693766)
 1. [DeepSeek R2来了？全新推理时Scaling论文联手清华震撼发布](https://36kr.com/p/3235677673865217)
 1. [为什么你的“95后”员工不快乐](https://36kr.com/p/3210424954225801)
@@ -14,8 +14,8 @@
 1. [投资90亿只为25%的“土豆股份”，腾讯此举意在何为？](https://36kr.com/p/3231323140646400)
 1. [「9块9」AI 复活亲人，科技奇迹还是「情感幻觉」？](https://36kr.com/p/3235310127890437)
 1. [大换血1年半后，字节游戏突然露面了：开局拿下Top1](https://36kr.com/p/3234371495919241)
-1. [史上波及范围最广的关税大棒，横扫全球运动品牌](https://36kr.com/p/3234493917331461)
 1. [小米SU7事故背后，关于“全民智驾”元年的真相](https://36kr.com/p/3234366867963910)
+1. [史上波及范围最广的关税大棒，横扫全球运动品牌](https://36kr.com/p/3234493917331461)
 1. [新茶饮三强盈利大比拼：蜜雪暴赚、古茗小跑、茶百道失速](https://36kr.com/p/3235103090589696)
 1. [时隔 8 年，这爆款游戏机，终于换代了](https://36kr.com/p/3234511806677000)
 1. [美国FDA大清洗](https://36kr.com/p/3234363176206341)
@@ -35,7 +35,7 @@
 ## Bilibili
 
 <!-- BEGIN BILIBILI -->
-<!-- 最后更新时间 2025-04-05 02:21:41 +0800 -->
+<!-- 最后更新时间 2025-04-05 03:14:20 +0800 -->
 1. [让日本观众惊掉下巴的“水之呼吸”！丝滑流星锤硬控东京漫展](https://b23.tv/BV1ZNfwYWEvZ)
 1. [不可能存在方的鸡！除非……](https://b23.tv/BV1stZAYvELe)
 1. [【视评线】“甲亢哥”中国行让谁破防了？](https://b23.tv/BV1T8fwYME4h)
@@ -146,57 +146,59 @@
 ## 抖音
 
 <!-- BEGIN DOUYIN -->
-<!-- 最后更新时间 2025-04-05 02:21:43 +0800 -->
+<!-- 最后更新时间 2025-04-05 03:14:21 +0800 -->
 1. [中方对原产美国商品加征34%关税](https://www.douyin.com/hot/2051097)
 1. [中方立案调查杜邦中国集团](https://www.douyin.com/hot/2051231)
 1. [铭记这些闪亮的名字](https://www.douyin.com/hot/2051285)
 1. [全方位分析浪姐二公选人](https://www.douyin.com/hot/2051260)
 1. [中方在WTO起诉美加征关税](https://www.douyin.com/hot/2051121)
 1. [祝绪丹浪姐6一公第二](https://www.douyin.com/hot/2051236)
-1. [德布劳内宣布今夏离开曼城](https://www.douyin.com/hot/2051210)
 1. [黄雨婷登顶世界第一](https://www.douyin.com/hot/2051131)
+1. [辛云来：我不是帅哥我是普通人类](https://www.douyin.com/hot/2050740)
 1. [假日经济正当时](https://www.douyin.com/hot/2051287)
 1. [本周谣言通告](https://www.douyin.com/hot/2051155)
-1. [辛云来：我不是帅哥我是普通人类](https://www.douyin.com/hot/2050740)
-1. [向阳花给第一批观众看爽了](https://www.douyin.com/hot/2051092)
 1. [苦尽柑来油菜花田定情模仿](https://www.douyin.com/hot/2051151)
+1. [向阳花给第一批观众看爽了](https://www.douyin.com/hot/2051092)
 1. [一句话证明你看过向阳花](https://www.douyin.com/hot/2051185)
-1. [中国舞蹈家协会主席冯双白被查](https://www.douyin.com/hot/2051271)
-1. [全红婵第四跳失误仍以第一名晋级](https://www.douyin.com/hot/2050470)
-1. [王安宇抱玫瑰花毯像抱孩子](https://www.douyin.com/hot/2050693)
 1. [王宝强柯洁棋士好戏开场](https://www.douyin.com/hot/2051050)
-1. [情人翻唱](https://www.douyin.com/hot/2050907)
-1. [特朗普敦促降息 美联储主席发声](https://www.douyin.com/hot/2051337)
-1. [为了这个镜头特意去了趟厦门](https://www.douyin.com/hot/2050901)
+1. [全红婵第四跳失误仍以第一名晋级](https://www.douyin.com/hot/2050470)
 1. [赵丽颖现身向阳花北京首映礼](https://www.douyin.com/hot/2051090)
-1. [一条视频看完苦尽柑来爱的延续](https://www.douyin.com/hot/2050150)
-1. [棋士崔业再次黑化有迹可循](https://www.douyin.com/hot/2051003)
+1. [情人翻唱](https://www.douyin.com/hot/2050907)
+1. [为了这个镜头特意去了趟厦门](https://www.douyin.com/hot/2050901)
+1. [王安宇抱玫瑰花毯像抱孩子](https://www.douyin.com/hot/2050693)
+1. [特朗普敦促降息 美联储主席发声](https://www.douyin.com/hot/2051337)
 1. [欢迎收看今日婴法](https://www.douyin.com/hot/2051076)
+1. [ENHYPEN科切拉加油](https://www.douyin.com/hot/2050997)
+1. [棋士崔业再次黑化有迹可循](https://www.douyin.com/hot/2051003)
+1. [不提思念带的每一样东西都是思念](https://www.douyin.com/hot/2050601)
+1. [一条视频看完苦尽柑来爱的延续](https://www.douyin.com/hot/2050150)
 1. [弹劾案通过 尹锡悦被罢免](https://www.douyin.com/hot/2050400)
 1. [勇士123:116湖人](https://www.douyin.com/hot/2050684)
-1. [ENHYPEN科切拉加油](https://www.douyin.com/hot/2050997)
-1. [不提思念带的每一样东西都是思念](https://www.douyin.com/hot/2050601)
-1. [电影猎狐行动上映](https://www.douyin.com/hot/2050741)
 1. [浪姐二公吴宣仪陈德容一组](https://www.douyin.com/hot/2051052)
+1. [电影猎狐行动上映](https://www.douyin.com/hot/2050741)
+1. [看青龙镇谜案吓到麻爪](https://www.douyin.com/hot/2051204)
+1. [许昕手感3.0挑战](https://www.douyin.com/hot/2051173)
 1. [海南小崇唱的默契火了](https://www.douyin.com/hot/2050044)
 1. [如何看待房琪浪姐表现](https://www.douyin.com/hot/2050758)
-1. [看青龙镇谜案吓到麻爪](https://www.douyin.com/hot/2051204)
-1. [用西楼爱情故事晒出日常](https://www.douyin.com/hot/2050072)
-1. [赵露思也整上抽象了](https://www.douyin.com/hot/2050084)
-1. [许昕手感3.0挑战](https://www.douyin.com/hot/2051173)
-1. [小米SU7车门总成拆解](https://www.douyin.com/hot/2051257)
-1. [叶童怼房琪](https://www.douyin.com/hot/2050905)
-1. [李羲承cha了别叫我达芬奇](https://www.douyin.com/hot/2050415)
-1. [乌云之上首播观后感](https://www.douyin.com/hot/2050580)
 1. [跟着黄宗泽吃遍广州](https://www.douyin.com/hot/2050631)
-1. [田野里的清明](https://www.douyin.com/hot/2050427)
-1. [过了这个春就没这个点了](https://www.douyin.com/hot/2049645)
-1. [韩国到底是不是美食荒漠](https://www.douyin.com/hot/2050628)
-1. [光合作用半小时挑战](https://www.douyin.com/hot/2049887)
-1. [当年要有奶龙物理还会是败笔吗](https://www.douyin.com/hot/2051039)
-1. [乌云之上对抗路夫妻好抓马](https://www.douyin.com/hot/2051006)
+1. [小米SU7车门总成拆解](https://www.douyin.com/hot/2051257)
+1. [赵露思也整上抽象了](https://www.douyin.com/hot/2050084)
+1. [德布劳内宣布今夏离开曼城](https://www.douyin.com/hot/2051210)
+1. [用西楼爱情故事晒出日常](https://www.douyin.com/hot/2050072)
+1. [叶童怼房琪](https://www.douyin.com/hot/2050905)
 1. [缅甸强震已致该国3301人死亡](https://www.douyin.com/hot/2051219)
+1. [乌云之上首播观后感](https://www.douyin.com/hot/2050580)
+1. [光合作用半小时挑战](https://www.douyin.com/hot/2049887)
+1. [过了这个春就没这个点了](https://www.douyin.com/hot/2049645)
 1. [特朗普政府因对中国征关税被起诉](https://www.douyin.com/hot/2050481)
+1. [田野里的清明](https://www.douyin.com/hot/2050427)
+1. [乌云之上对抗路夫妻好抓马](https://www.douyin.com/hot/2051006)
+1. [韩国到底是不是美食荒漠](https://www.douyin.com/hot/2050628)
+1. [和平精英圣斗士变装](https://www.douyin.com/hot/2051255)
+1. [李羲承cha了别叫我达芬奇](https://www.douyin.com/hot/2050415)
+1. [唐国强回应表情包](https://www.douyin.com/hot/2050405)
+1. [中国舞蹈家协会主席冯双白被查](https://www.douyin.com/hot/2051271)
+1. [当年要有奶龙物理还会是败笔吗](https://www.douyin.com/hot/2051039)
 1. [郭敬明多年前就选中了鞠婧祎](https://www.douyin.com/hot/2051012)
 1. [也许这就是结婚的意义吧](https://www.douyin.com/hot/2049978)
 1. [杨茜尧重现宫心计名场面](https://www.douyin.com/hot/2050043)
@@ -209,7 +211,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-04-05 02:21:45 +0800 -->
+<!-- 最后更新时间 2025-04-05 03:14:23 +0800 -->
 1. [Android 确定废弃「屏幕方向锁定」等 API ，如何让 App 适配大屏和 PC/XR 等场景](https://juejin.cn/post/7487118309344444467)
 1. [6000 字+6 个案例：写给普通人的 MCP 入门指南](https://juejin.cn/post/7488374561177190434)
 1. [凌晨三点我用Python重写公司远控程序，竟发现实习生埋了后门？](https://juejin.cn/post/7487846902661513250)
@@ -226,8 +228,8 @@
 1. [springboot-tomcat 线程处理web接口解读](https://juejin.cn/post/7487219933127786505)
 1. [Flutter 伪 3D 绘制#1 |  三维空间](https://juejin.cn/post/7488176279923441704)
 1. [ant design pro 模版简化工具](https://juejin.cn/post/7488529389338673204)
-1. [前端面试手撕代码（字节）](https://juejin.cn/post/7488235095884464140)
 1. [前端搭建 MCP Client（Web版）+ Server + Agent 实践](https://juejin.cn/post/7488522007764680731)
+1. [前端面试手撕代码（字节）](https://juejin.cn/post/7488235095884464140)
 1. [为什么GPT-4o可以生成吉卜力风格照片，原理是什么？](https://juejin.cn/post/7488259601253351424)
 1. [Nuxt3能上生产吗？](https://juejin.cn/post/7488974958405222415)
 1. [26岁转型：研发骨干到技术Leader，我的管理心态转变与团队方法论](https://juejin.cn/post/7488621104959193138)
@@ -235,22 +237,22 @@
 1. [大文件上传之切片上传以及开发全流程之前端篇](https://juejin.cn/post/7488886871399219239)
 1. [从0到1手撸企业级权限系统：基于 youlai-boot（开源） + Java17 + Spring Boot 3 完整实战](https://juejin.cn/post/7488609303065231386)
 1. [Spring Boot 实现文件秒传功能](https://juejin.cn/post/7487859784231141417)
-1. [Flutter 伪 3D 绘制#02 |  地平面与透视](https://juejin.cn/post/7488582788674650146)
 1. [uniapp编译的app在ios上内存泄漏了](https://juejin.cn/post/7488013596524167177)
-1. [DialogFragment 不适合复用](https://juejin.cn/post/7488168037674991626)
+1. [Flutter 伪 3D 绘制#02 |  地平面与透视](https://juejin.cn/post/7488582788674650146)
 1. [我的远程实习(六) | 一个demo讲清Auth.js国外平台登录鉴权👈|nextjs](https://juejin.cn/post/7488582788673798178)
 1. [ 关于前端性能优化](https://juejin.cn/post/7488168037675532298)
+1. [DialogFragment 不适合复用](https://juejin.cn/post/7488168037674991626)
 1. [5个免费可用AI声音克隆工具，90%的人都不知道！建议收藏，早晚用得上！（附保姆级教程）](https://juejin.cn/post/7487998346838868007)
 1. [前端性能指标 —— CLS](https://juejin.cn/post/7487121291222695936)
 1. [拿到Offer，租房怎么办？看我用高德MCP+腾讯云MCP，帮你分分钟搞定！](https://juejin.cn/post/7488599657125052416)
 1. [一文秒懂AI核心：Agent、RAG、Function Call与MCP全解析](https://juejin.cn/post/7488188832921649215)
 1. [Gemini 2.5 疯狂反扑 OpenAI，智商 130 碾压人类！一键 3D 打印蛋糕、秒解魔方](https://juejin.cn/post/7487443604052508699)
+1. [【万字总结】前端全方位性能优化指南（八）——Webpack 6调优、模块联邦升级、Tree Shaking突破](https://juejin.cn/post/7487863095868768293)
+1. [基于 Web Components 封装下拉树组件 select-tree](https://juejin.cn/post/7488266942898831401)
 1. [Excel百万数据如何快速导入？](https://juejin.cn/post/7488246529431748645)
 1. [Trae开发实战之转盘小程序](https://juejin.cn/post/7487973629427515404)
-1. [【万字总结】前端全方位性能优化指南（八）——Webpack 6调优、模块联邦升级、Tree Shaking突破](https://juejin.cn/post/7487863095868768293)
 1. [轿车3D展示](https://juejin.cn/post/7488601438638391311)
 1. [使用Cursor 打造了一款记账APP](https://juejin.cn/post/7488339049691316259)
-1. [基于 Web Components 封装下拉树组件 select-tree](https://juejin.cn/post/7488266942898831401)
 1. [ XSS 和 CSRF 为什么值得你的关注？](https://juejin.cn/post/7487487328420904995)
 1. [一文掌握 MCP 上下文协议：从理论到实践](https://juejin.cn/post/7488599129830899752)
 1. [AI编程-cursor无限使用， 还有谁不会🎁🎁🎁？？](https://juejin.cn/post/7488524321788002355)
@@ -268,7 +270,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-04-05 02:21:40 +0800 -->
+<!-- 最后更新时间 2025-04-05 03:14:18 +0800 -->
 1. [iOS 18.4 中值得关注的新特性](https://sspai.com/post/97981)
 1. [派评 | 近期值得关注的 App](https://sspai.com/post/97961)
 1. [三段奇遇，三种风格：见证 Apple 生态在中国的落地与成长](https://sspai.com/post/97874)
@@ -317,7 +319,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-04-05 02:21:46 +0800 -->
+<!-- 最后更新时间 2025-04-05 03:14:24 +0800 -->
 1. [我只是喜欢不稳定的人生（轻游记）](https://weread.qq.com/web/bookDetail/61632870813ab9cd1g016717)
 1. [屋檐下](https://weread.qq.com/web/bookDetail/1df32b10813ab9cafg014f54)
 1. [我们时代的神经症人格（果麦经典）](https://weread.qq.com/web/bookDetail/09a323d0723e854209ad540)
